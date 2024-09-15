@@ -1,0 +1,26 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiepdeeptry/learning_nodejs.git"
+  },
+  "keywords": [
+    "blog",
+    "nodejs"
+  ],
+  "author": "hiepdeeptry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hiepdeeptry/learning_nodejs/issues"
+  },
+  "homepage": "https://github.com/hiepdeeptry/learning_nodejs#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
